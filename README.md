@@ -1,1 +1,1 @@
-# vlmsolver
+This program calculates AeroDynamicCoefficients with VLM.
